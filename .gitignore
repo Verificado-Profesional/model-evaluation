@@ -1,4 +1,4 @@
-/models
+/classes/models
 *.pth
 __pycache__/
 

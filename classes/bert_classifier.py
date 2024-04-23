@@ -2,7 +2,7 @@ import os
 import torch
 from transformers import BertForSequenceClassification, BertTokenizer
 
-class BertVeracityClassifier:
+class BertClassifier:
    
     def __init__(self, model_name,model_path):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
