@@ -1,0 +1,4 @@
+/classes/models
+*.pth
+__pycache__/
+
