@@ -11,6 +11,6 @@ Se comparan los distintos resultados obtenidos por los diversos modelos entrenad
 Se utilizan ambos modelos en simultaneo en busca de una relacion interesante entre los resultados
 
 ## Estructura de Carpetas
-1. [evaluation](evaluation/):
-Esta carpeta contiene los resultados de las evaluaciones los diferentes modelos entrenados para la deteccion de noticias falsas y analisis de sentimentos.
+* [evaluation](evaluation/):
+Esta carpeta contiene los resultados de las evaluaciones de los diferentes modelos entrenados para la deteccion de noticias falsas y analisis de sentimentos.
 
