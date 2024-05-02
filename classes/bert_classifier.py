@@ -34,7 +34,7 @@ class BertClassifier:
         if probabilities[predicted_class] <= threshold and predicted_class == 1:
             predicted_class = 0
   
-        return bool(predicted_class), probabilities
+        return predicted_class, probabilities
     
     
     def _dict_cleaner(self,model_state_dict):
