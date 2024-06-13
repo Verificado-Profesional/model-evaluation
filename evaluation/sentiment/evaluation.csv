@@ -1,0 +1,5 @@
+Model,Accuracy,F1,Precision,Recall
+Bert Base,78.53,78.52,78.67,78.61
+Multilingual Bert,82.58,82.58,82.57,82.59
+Spanish Bert,86.47,86.47,86.46,86.51
+Spanish Bert Cased,86.60,86.60,86.59,86.62
